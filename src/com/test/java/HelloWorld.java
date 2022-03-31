@@ -8,5 +8,8 @@ public class HelloWorld {
         System.out.println("Hello World!");
         ArrayList<Object> objects = new ArrayList<>(9);
 
+
+        System.out.println("long time no see!");
+
     }
 }
