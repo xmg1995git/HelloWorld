@@ -12,7 +12,7 @@ public class HelloWorld {
         System.out.println("long time no see!");
 
 
-        System.out.println("**********************************************");
+        System.out.println("*****1*****************************************");
 
     }
 }
